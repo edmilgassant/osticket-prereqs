@@ -60,9 +60,9 @@ After installing and creating a osTicket folder in my files, I was able to bring
 <br />
 
 <p>
-<img src="https://i.imgur.com/YbPcz82.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/oF3T6i8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-And here we are. It has installed!
+Filled out login info and here we are. It has installed!
 </p>
 <br />
