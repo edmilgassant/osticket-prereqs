@@ -50,3 +50,19 @@ Installed MySQL 5.5 and enabled all PHP versions up to 7.3.8 to make sure osTick
 Here is the Web Platform Installer. In order for this to show up. IIS needs to be installed.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/KGIWB1w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+After installing and creating a osTicket folder in my files, I was able to bring up the osTicket Installer and made sure to enable certain PHP in files in order for osTicket to work
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/YbPcz82.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+And here we are. It has installed!
+</p>
+<br />
