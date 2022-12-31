@@ -22,7 +22,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Enabled information services (IIS)
 - Installed web platform installer
 - Installed MySQL instead of username and password
-- Installed C++ redistrubitable
 - Configure permissions and install osTicket
 
 <h2>Installation Steps</h2>
@@ -36,6 +35,14 @@ Installed Microsoft Web Platform Installer on a virtual machine in order for osT
 <br />
 
 <p>
+<img src="https://i.imgur.com/SUqzVXj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Here is the Web Platform Installer. In order for this to show up. IIS needs to be installed.
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/zclC2qc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
@@ -43,13 +50,6 @@ Installed MySQL 5.5 and enabled all PHP versions up to 7.3.8 to make sure osTick
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/SUqzVXj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Here is the Web Platform Installer. In order for this to show up. IIS needs to be installed.
-</p>
-<br />
 
 <p>
 <img src="https://i.imgur.com/KGIWB1w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
